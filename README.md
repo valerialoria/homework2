@@ -10,3 +10,7 @@ In this graph I chose to compare the season 1 and season 2 of Rick and Morty and
 ## My Second Graph
 ![Cereals](https://github.com/valerialoria/homework2/blob/main/Graph%202.png) 
 
+In this graph I compared the amount of sugar and fiber in each of the 4 cereals. The blue line represents the amount of sugar and the red line represents the amount of fiber. As you can see this varies per cereal brand and they all differ. I found the data set to this graph [here](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets). 
+
+
+
